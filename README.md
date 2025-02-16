@@ -1,1 +1,1 @@
-# Tiny Video
+# VidSqueeze
